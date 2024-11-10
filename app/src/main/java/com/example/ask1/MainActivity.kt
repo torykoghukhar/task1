@@ -36,7 +36,7 @@ class MainActivity : AppCompatActivity() {
                 putExtra(Intent.EXTRA_SUBJECT, "DigiJED Kozhukhar Viktoriia")
                 putExtra(
                     Intent.EXTRA_TEXT,
-                    "Переглянути завдання можна за посиланням: "
+                    "Переглянути за посиланням: https://github.com/torykoghukhar/task1"
                 )
                 putExtra(Intent.EXTRA_STREAM, imageUri)
             }
